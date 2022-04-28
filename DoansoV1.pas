@@ -1,7 +1,7 @@
 program gamedoanso;
 uses crt;
 var TienUser,SoRD,TienCong,Many1Luot:Integer;
-    SoLanThuLai,StartNum,SoDaRand,MaxRand,NapTien,Session:Integer;
+    SoLanThuLai,StartNum,SoDaRand,MaxRand,Session:Integer;
     CheckWin:Boolean;
 begin clrscr;
   (*Config game*)
